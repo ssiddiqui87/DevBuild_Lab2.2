@@ -1,0 +1,10 @@
+C:\Users\ssiddiqui\OneDrive - KNEX\Documents\devbuild\Grand Circus\C# Basics\Labs\Lab2-2\ConsoleApp1\bin\Debug\netcoreapp3.1\PowersTable.exe
+C:\Users\ssiddiqui\OneDrive - KNEX\Documents\devbuild\Grand Circus\C# Basics\Labs\Lab2-2\ConsoleApp1\bin\Debug\netcoreapp3.1\PowersTable.deps.json
+C:\Users\ssiddiqui\OneDrive - KNEX\Documents\devbuild\Grand Circus\C# Basics\Labs\Lab2-2\ConsoleApp1\bin\Debug\netcoreapp3.1\PowersTable.runtimeconfig.json
+C:\Users\ssiddiqui\OneDrive - KNEX\Documents\devbuild\Grand Circus\C# Basics\Labs\Lab2-2\ConsoleApp1\bin\Debug\netcoreapp3.1\PowersTable.runtimeconfig.dev.json
+C:\Users\ssiddiqui\OneDrive - KNEX\Documents\devbuild\Grand Circus\C# Basics\Labs\Lab2-2\ConsoleApp1\bin\Debug\netcoreapp3.1\PowersTable.dll
+C:\Users\ssiddiqui\OneDrive - KNEX\Documents\devbuild\Grand Circus\C# Basics\Labs\Lab2-2\ConsoleApp1\bin\Debug\netcoreapp3.1\PowersTable.pdb
+C:\Users\ssiddiqui\OneDrive - KNEX\Documents\devbuild\Grand Circus\C# Basics\Labs\Lab2-2\ConsoleApp1\obj\Debug\netcoreapp3.1\PowersTable.AssemblyInfoInputs.cache
+C:\Users\ssiddiqui\OneDrive - KNEX\Documents\devbuild\Grand Circus\C# Basics\Labs\Lab2-2\ConsoleApp1\obj\Debug\netcoreapp3.1\PowersTable.AssemblyInfo.cs
+C:\Users\ssiddiqui\OneDrive - KNEX\Documents\devbuild\Grand Circus\C# Basics\Labs\Lab2-2\ConsoleApp1\obj\Debug\netcoreapp3.1\PowersTable.dll
+C:\Users\ssiddiqui\OneDrive - KNEX\Documents\devbuild\Grand Circus\C# Basics\Labs\Lab2-2\ConsoleApp1\obj\Debug\netcoreapp3.1\PowersTable.pdb

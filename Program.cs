@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleApp1
+namespace PowersTable
 {
     class Program
     {
@@ -13,12 +13,13 @@ namespace ConsoleApp1
             bool runAgain = true;
 
             //While room to run until user wants to exit
-            while (runAgain) {
+            while (runAgain)
+            {
                 //Declare user input variable and get input from user
                 string userInput = Console.ReadLine();
                 //TryParse input into an int and set boolean
                 bool worked = int.TryParse(userInput, out int num);
-                
+
                 //check if int was not entered
                 if (!worked)
                 {
@@ -26,13 +27,13 @@ namespace ConsoleApp1
                     continue;
                 }
                 // check if 0 or a negative number was entered
-                else if(num <=0)
+                else if (num <= 0)
                 {
                     Console.Write("That is not a postive whole integer. Please try again: ");
                     continue;
                 }
                 // check if 1291 or greater is entered since this number cubed or higher will not fit in an int
-                else if(num > 1290)
+                else if (num > 1290)
                 {
                     Console.Write("That number is too large! Please try a number less than 1291: ");
                     continue;
@@ -43,7 +44,7 @@ namespace ConsoleApp1
                     //Heading
                     Console.WriteLine("Number\t\tSquared\t\tCubed");
                     Console.WriteLine("======= \t======= \t=======");
-                    
+
                     //For loop to loop through user inputted integer
                     for (int i = 1; i <= num; i++)
                     {
@@ -74,4 +75,3 @@ namespace ConsoleApp1
         }
     }
 }
-

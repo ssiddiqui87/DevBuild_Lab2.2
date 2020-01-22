@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ssiddiqui\\OneDrive - KNEX\\Documents\\devbuild\\Grand Circus\\C# Basics\\Labs\\Lab2-2\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\ssiddiqui\\OneDrive - KNEX\\Documents\\devbuild\\Grand Circus\\C# Basics\\Labs\\Lab2-2\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\ssiddiqui\\OneDrive - KNEX\\Documents\\devbuild\\Grand Circus\\C# Basics\\Labs\\Lab2-2\\ConsoleApp1\\PowersTable.csproj",
+      "projectName": "PowersTable",
+      "projectPath": "C:\\Users\\ssiddiqui\\OneDrive - KNEX\\Documents\\devbuild\\Grand Circus\\C# Basics\\Labs\\Lab2-2\\ConsoleApp1\\PowersTable.csproj",
       "packagesPath": "C:\\Users\\ssiddiqui\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ssiddiqui\\OneDrive - KNEX\\Documents\\devbuild\\Grand Circus\\C# Basics\\Labs\\Lab2-2\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
